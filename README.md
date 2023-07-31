@@ -11,21 +11,21 @@
 
 
 <!--- snake -->
-<div align="center">
+<!--- <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
 <!--Intro start-->
 <!-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**-->
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 <!-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**-->
 
 <!-- 📝 I regularly write articles on [Hashnode](https://alejaMig21.hashnode.dev/)-->
 
-- 💬 Ask me about **Unity, C#, ShaderLab, Angular**
+- 💬 Ask me about **Unity, C#, ShaderLab, React**
 
 - 📫 Feel free to reach me out **alejasainzmartinez@gmail.com**
 
@@ -77,7 +77,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,postgres,py,html,css,js,git,github,py,angular,vscode,idea,unity,blender,ps&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,postgres,py,html,css,js,git,github,py,react,angular,vscode,idea,unity,blender,ps&perline=14" />
   </a>
 </p>
 
