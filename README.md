@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Unity, C#, ShaderLab, React**
 
-- 📫 Feel free to reach me out **alejasainzmartinez@gmail.com**
+- 📫 Feel free to reach me out **alejandropsainzm@gmail.com**
 
 
 <!--h1 without bottom border-->
