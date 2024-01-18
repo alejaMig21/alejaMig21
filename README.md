@@ -29,44 +29,6 @@
 
 - 📫 Feel free to reach me out **alejasainzmartinez@gmail.com**
 
-<!-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).-->
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alejaMig21&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alejaMig21&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejaMig21&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=alejaMig21&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -77,7 +39,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,postgres,py,html,css,js,git,github,py,react,angular,vscode,idea,unity,blender,ps&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,postgres,py,html,css,js,git,github,react,vscode,visualstudio,idea,unity,unreal,blender,ps&perline=14" />
   </a>
 </p>
 
