@@ -19,13 +19,9 @@
 <!--Intro start-->
 <!-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**-->
 
-- 🌱 I’m currently learning **React**
+- 🌱 I am a Game Developer
 
-<!-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**-->
-
-<!-- 📝 I regularly write articles on [Hashnode](https://alejaMig21.hashnode.dev/)-->
-
-- 💬 Ask me about **Unity, C#, ShaderLab, React**
+- 💬 Ask me anything about **Unity, C#**
 
 - 📫 Feel free to reach me out **alejandropsainzm@gmail.com**
 
